@@ -1,0 +1,21 @@
+# Task List
+
+- [x] Create implementation plan
+- [x] Build Django project files
+  - [x] requirements.txt
+  - [x] manage.py
+  - [x] box_selector/ (settings, urls, wsgi, __init__)
+  - [x] shipping/models.py
+  - [x] shipping/services.py (algorithm)
+  - [x] shipping/serializers.py
+  - [x] shipping/views.py
+  - [x] shipping/urls.py
+  - [x] shipping/admin.py
+  - [x] shipping/tests.py
+  - [x] shipping/migrations/0001_initial.py
+- [x] README.md
+- [x] AI_USAGE.md
+- [x] .gitignore
+- [x] run.bat / run_tests.bat helper scripts
+- [ ] Run tests & capture output → paste into TEST_OUTPUT.md
+- [x] TEST_OUTPUT.md (placeholder - needs real output)
